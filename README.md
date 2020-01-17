@@ -1,6 +1,8 @@
 # YoloV3 Darknet Multi-Object Detection and Classification
 
-A first look into Real-Time Multi-Object Detection and Classification algorithms using Python and C++, from a direct Webcam or Video input.
+A first look into Real-Time Multi-Object Detection and Classification, algorithms using Python and C++, from a direct Webcam or Video input.
+
+The YoloV3 uses a CNN Architecture called Darknet-53 a evolution from YoloV2 architecture Darknet-19, and this algorithm uses a 80 classes trained model from ImageNet, that can be found in the second reference below, this algorithm do only the inference.
 
 ![Algorithm Detection](https://i.ibb.co/mtNyKQT/iss.png)
 
@@ -12,6 +14,7 @@ This algorithm is mostly if not entirely, based articles in the following links.
 - [Learn OpenCV Website](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/)
 - [Pjreddie Website](https://pjreddie.com/darknet/yolo/)
 - [Embedded Vision Website](https://www.embedded-vision.com/academy/Embedded_Vision_Alliance_Meetup_March_2019_OpenCV.pdf)
+- [Towards Data Science](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
 
 ## Libraries
 
