@@ -2,7 +2,7 @@
 
 A first look into Real-Time Multi-Object Detection and Classification, algorithms using Python and C++, from a direct Webcam or Video input.
 
-The YoloV3 uses a CNN Architecture called Darknet-53 a evolution from YoloV2 architecture Darknet-19, and this algorithm uses a 80 classes trained model from ImageNet, that can be found in the second reference below, this algorithm do only the inference.
+The YoloV3 uses a CNN Architecture called Darknet-53 an evolution from YoloV2 architecture Darknet-19, and this algorithm uses an 80 classes trained model from ImageNet, that can be found in the second reference below, this algorithm do only the inference through the model.
 
 ![Algorithm Detection](https://i.ibb.co/mtNyKQT/iss.png)
 
