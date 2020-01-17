@@ -31,4 +31,5 @@ This algorithm is mostly if not entirely, based articles in the following links.
 
 - Due to perfomance issues, the input used are 96x96.
 - Backend are CPU and OpenCV based.
+- Bounding bozes only to hits above 70% of confidence.
 
