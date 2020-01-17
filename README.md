@@ -18,8 +18,14 @@ This algorithm is mostly if not entirely, based articles in the following links.
 
 ## Libraries
 
+### Python
+
 - OpenCV2
 - Numpy
+
+### C++
+
+
 
 ## Observations
 
