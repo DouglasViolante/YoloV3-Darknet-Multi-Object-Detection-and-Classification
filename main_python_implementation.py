@@ -23,7 +23,7 @@ trained_net.setPreferableTarget(cv2.dnn.DNN_TARGET_CPU)
 
 
 # Webcam initialization
-webcam_cap = cv2.VideoCapture("iss.mp4")
+webcam_cap = cv2.VideoCapture(0)
  
 
 # Get the names of the output layers
